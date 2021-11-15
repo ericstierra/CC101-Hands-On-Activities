@@ -1,0 +1,26 @@
+F:\Eric School\Activities\CC101\AreaOfRectangleCalculator\AreaOfRectangleCalculator\bin\Debug\netcoreapp3.1\AreaOfRectangleCalculator.exe
+F:\Eric School\Activities\CC101\AreaOfRectangleCalculator\AreaOfRectangleCalculator\bin\Debug\netcoreapp3.1\AreaOfRectangleCalculator.deps.json
+F:\Eric School\Activities\CC101\AreaOfRectangleCalculator\AreaOfRectangleCalculator\bin\Debug\netcoreapp3.1\AreaOfRectangleCalculator.runtimeconfig.json
+F:\Eric School\Activities\CC101\AreaOfRectangleCalculator\AreaOfRectangleCalculator\bin\Debug\netcoreapp3.1\AreaOfRectangleCalculator.runtimeconfig.dev.json
+F:\Eric School\Activities\CC101\AreaOfRectangleCalculator\AreaOfRectangleCalculator\bin\Debug\netcoreapp3.1\AreaOfRectangleCalculator.dll
+F:\Eric School\Activities\CC101\AreaOfRectangleCalculator\AreaOfRectangleCalculator\bin\Debug\netcoreapp3.1\AreaOfRectangleCalculator.pdb
+F:\Eric School\Activities\CC101\AreaOfRectangleCalculator\AreaOfRectangleCalculator\obj\Debug\netcoreapp3.1\AreaOfRectangleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eric School\Activities\CC101\AreaOfRectangleCalculator\AreaOfRectangleCalculator\obj\Debug\netcoreapp3.1\AreaOfRectangleCalculator.AssemblyInfoInputs.cache
+F:\Eric School\Activities\CC101\AreaOfRectangleCalculator\AreaOfRectangleCalculator\obj\Debug\netcoreapp3.1\AreaOfRectangleCalculator.AssemblyInfo.cs
+F:\Eric School\Activities\CC101\AreaOfRectangleCalculator\AreaOfRectangleCalculator\obj\Debug\netcoreapp3.1\AreaOfRectangleCalculator.csproj.CoreCompileInputs.cache
+F:\Eric School\Activities\CC101\AreaOfRectangleCalculator\AreaOfRectangleCalculator\obj\Debug\netcoreapp3.1\AreaOfRectangleCalculator.dll
+F:\Eric School\Activities\CC101\AreaOfRectangleCalculator\AreaOfRectangleCalculator\obj\Debug\netcoreapp3.1\AreaOfRectangleCalculator.pdb
+F:\Eric School\Activities\CC101\AreaOfRectangleCalculator\AreaOfRectangleCalculator\obj\Debug\netcoreapp3.1\AreaOfRectangleCalculator.genruntimeconfig.cache
+F:\Eric School\Activities\CC101\Programming\#3 AreaOfRectangleCalculator\AreaOfRectangleCalculator\bin\Debug\netcoreapp3.1\AreaOfRectangleCalculator.exe
+F:\Eric School\Activities\CC101\Programming\#3 AreaOfRectangleCalculator\AreaOfRectangleCalculator\bin\Debug\netcoreapp3.1\AreaOfRectangleCalculator.deps.json
+F:\Eric School\Activities\CC101\Programming\#3 AreaOfRectangleCalculator\AreaOfRectangleCalculator\bin\Debug\netcoreapp3.1\AreaOfRectangleCalculator.runtimeconfig.json
+F:\Eric School\Activities\CC101\Programming\#3 AreaOfRectangleCalculator\AreaOfRectangleCalculator\bin\Debug\netcoreapp3.1\AreaOfRectangleCalculator.runtimeconfig.dev.json
+F:\Eric School\Activities\CC101\Programming\#3 AreaOfRectangleCalculator\AreaOfRectangleCalculator\bin\Debug\netcoreapp3.1\AreaOfRectangleCalculator.dll
+F:\Eric School\Activities\CC101\Programming\#3 AreaOfRectangleCalculator\AreaOfRectangleCalculator\bin\Debug\netcoreapp3.1\AreaOfRectangleCalculator.pdb
+F:\Eric School\Activities\CC101\Programming\#3 AreaOfRectangleCalculator\AreaOfRectangleCalculator\obj\Debug\netcoreapp3.1\AreaOfRectangleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eric School\Activities\CC101\Programming\#3 AreaOfRectangleCalculator\AreaOfRectangleCalculator\obj\Debug\netcoreapp3.1\AreaOfRectangleCalculator.AssemblyInfoInputs.cache
+F:\Eric School\Activities\CC101\Programming\#3 AreaOfRectangleCalculator\AreaOfRectangleCalculator\obj\Debug\netcoreapp3.1\AreaOfRectangleCalculator.AssemblyInfo.cs
+F:\Eric School\Activities\CC101\Programming\#3 AreaOfRectangleCalculator\AreaOfRectangleCalculator\obj\Debug\netcoreapp3.1\AreaOfRectangleCalculator.csproj.CoreCompileInputs.cache
+F:\Eric School\Activities\CC101\Programming\#3 AreaOfRectangleCalculator\AreaOfRectangleCalculator\obj\Debug\netcoreapp3.1\AreaOfRectangleCalculator.dll
+F:\Eric School\Activities\CC101\Programming\#3 AreaOfRectangleCalculator\AreaOfRectangleCalculator\obj\Debug\netcoreapp3.1\AreaOfRectangleCalculator.pdb
+F:\Eric School\Activities\CC101\Programming\#3 AreaOfRectangleCalculator\AreaOfRectangleCalculator\obj\Debug\netcoreapp3.1\AreaOfRectangleCalculator.genruntimeconfig.cache

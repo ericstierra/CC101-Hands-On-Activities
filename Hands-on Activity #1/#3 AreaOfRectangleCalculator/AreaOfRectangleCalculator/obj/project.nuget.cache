@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iAw44bX91PQvxS4iHiUlMwwzLRt+e77K4bwbJXLNZXgbIIH+TAkcLO2d2De0aWldX7eno5QSyL+JSqQtstyPjw==",
+  "success": true,
+  "projectFilePath": "F:\\Eric School\\Activities\\CC101\\Programming\\#3 AreaOfRectangleCalculator\\AreaOfRectangleCalculator\\AreaOfRectangleCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sambag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

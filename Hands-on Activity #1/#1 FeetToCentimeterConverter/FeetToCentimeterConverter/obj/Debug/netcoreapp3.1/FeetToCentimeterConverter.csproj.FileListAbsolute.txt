@@ -1,0 +1,28 @@
+F:\Eric School\Activities\CC101\FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.csproj.AssemblyReference.cache
+F:\Eric School\Activities\CC101\FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eric School\Activities\CC101\FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.AssemblyInfoInputs.cache
+F:\Eric School\Activities\CC101\FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.AssemblyInfo.cs
+F:\Eric School\Activities\CC101\FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.csproj.CoreCompileInputs.cache
+F:\Eric School\Activities\CC101\FeetToCentimeterConverter\FeetToCentimeterConverter\bin\Debug\netcoreapp3.1\FeetToCentimeterConverter.exe
+F:\Eric School\Activities\CC101\FeetToCentimeterConverter\FeetToCentimeterConverter\bin\Debug\netcoreapp3.1\FeetToCentimeterConverter.deps.json
+F:\Eric School\Activities\CC101\FeetToCentimeterConverter\FeetToCentimeterConverter\bin\Debug\netcoreapp3.1\FeetToCentimeterConverter.runtimeconfig.json
+F:\Eric School\Activities\CC101\FeetToCentimeterConverter\FeetToCentimeterConverter\bin\Debug\netcoreapp3.1\FeetToCentimeterConverter.runtimeconfig.dev.json
+F:\Eric School\Activities\CC101\FeetToCentimeterConverter\FeetToCentimeterConverter\bin\Debug\netcoreapp3.1\FeetToCentimeterConverter.dll
+F:\Eric School\Activities\CC101\FeetToCentimeterConverter\FeetToCentimeterConverter\bin\Debug\netcoreapp3.1\FeetToCentimeterConverter.pdb
+F:\Eric School\Activities\CC101\FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.dll
+F:\Eric School\Activities\CC101\FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.pdb
+F:\Eric School\Activities\CC101\FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.genruntimeconfig.cache
+F:\Eric School\Activities\CC101\Programming\#1 FeetToCentimeterConverter\FeetToCentimeterConverter\bin\Debug\netcoreapp3.1\FeetToCentimeterConverter.exe
+F:\Eric School\Activities\CC101\Programming\#1 FeetToCentimeterConverter\FeetToCentimeterConverter\bin\Debug\netcoreapp3.1\FeetToCentimeterConverter.deps.json
+F:\Eric School\Activities\CC101\Programming\#1 FeetToCentimeterConverter\FeetToCentimeterConverter\bin\Debug\netcoreapp3.1\FeetToCentimeterConverter.runtimeconfig.json
+F:\Eric School\Activities\CC101\Programming\#1 FeetToCentimeterConverter\FeetToCentimeterConverter\bin\Debug\netcoreapp3.1\FeetToCentimeterConverter.runtimeconfig.dev.json
+F:\Eric School\Activities\CC101\Programming\#1 FeetToCentimeterConverter\FeetToCentimeterConverter\bin\Debug\netcoreapp3.1\FeetToCentimeterConverter.dll
+F:\Eric School\Activities\CC101\Programming\#1 FeetToCentimeterConverter\FeetToCentimeterConverter\bin\Debug\netcoreapp3.1\FeetToCentimeterConverter.pdb
+F:\Eric School\Activities\CC101\Programming\#1 FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.csproj.AssemblyReference.cache
+F:\Eric School\Activities\CC101\Programming\#1 FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eric School\Activities\CC101\Programming\#1 FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.AssemblyInfoInputs.cache
+F:\Eric School\Activities\CC101\Programming\#1 FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.AssemblyInfo.cs
+F:\Eric School\Activities\CC101\Programming\#1 FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.csproj.CoreCompileInputs.cache
+F:\Eric School\Activities\CC101\Programming\#1 FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.dll
+F:\Eric School\Activities\CC101\Programming\#1 FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.pdb
+F:\Eric School\Activities\CC101\Programming\#1 FeetToCentimeterConverter\FeetToCentimeterConverter\obj\Debug\netcoreapp3.1\FeetToCentimeterConverter.genruntimeconfig.cache

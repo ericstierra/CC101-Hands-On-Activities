@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DHJEnX0AuqbHAj6R9byZwfC2sw1JiaYjCRNMLvtroAu0JQWaOuvYiyA2VylNnL6SDDbkgrhXz63YvH3KCGbfBA==",
+  "success": true,
+  "projectFilePath": "F:\\Eric School\\Activities\\CC101\\Programming\\ExchangeValue\\ExchangeValue\\ExchangeValue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sambag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

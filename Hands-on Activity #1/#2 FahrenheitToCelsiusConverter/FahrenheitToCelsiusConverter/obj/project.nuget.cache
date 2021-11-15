@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7PR9rG/yByxZM0igE3yYkYFAMDKll4pfgKwY6aMKiUz6cCg3qurd5rCXGCqPcwz3RPQAyePcuSKiyWMlMzZ2w==",
+  "success": true,
+  "projectFilePath": "F:\\Eric School\\Activities\\CC101\\Programming\\#2 FahrenheitToCelsiusConverter\\FahrenheitToCelsiusConverter\\FahrenheitToCelsiusConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sambag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

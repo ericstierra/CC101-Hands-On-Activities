@@ -1,0 +1,28 @@
+F:\Eric School\Activities\CC101\GradingSystem\GradingSystem\bin\Debug\netcoreapp3.1\GradingSystem.exe
+F:\Eric School\Activities\CC101\GradingSystem\GradingSystem\bin\Debug\netcoreapp3.1\GradingSystem.deps.json
+F:\Eric School\Activities\CC101\GradingSystem\GradingSystem\bin\Debug\netcoreapp3.1\GradingSystem.runtimeconfig.json
+F:\Eric School\Activities\CC101\GradingSystem\GradingSystem\bin\Debug\netcoreapp3.1\GradingSystem.runtimeconfig.dev.json
+F:\Eric School\Activities\CC101\GradingSystem\GradingSystem\bin\Debug\netcoreapp3.1\GradingSystem.dll
+F:\Eric School\Activities\CC101\GradingSystem\GradingSystem\bin\Debug\netcoreapp3.1\GradingSystem.pdb
+F:\Eric School\Activities\CC101\GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eric School\Activities\CC101\GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.AssemblyInfoInputs.cache
+F:\Eric School\Activities\CC101\GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.AssemblyInfo.cs
+F:\Eric School\Activities\CC101\GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.csproj.CoreCompileInputs.cache
+F:\Eric School\Activities\CC101\GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.dll
+F:\Eric School\Activities\CC101\GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.pdb
+F:\Eric School\Activities\CC101\GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.genruntimeconfig.cache
+F:\Eric School\Activities\CC101\GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.csproj.AssemblyReference.cache
+F:\Eric School\Activities\CC101\Programming\#5 GradingSystem\GradingSystem\bin\Debug\netcoreapp3.1\GradingSystem.exe
+F:\Eric School\Activities\CC101\Programming\#5 GradingSystem\GradingSystem\bin\Debug\netcoreapp3.1\GradingSystem.deps.json
+F:\Eric School\Activities\CC101\Programming\#5 GradingSystem\GradingSystem\bin\Debug\netcoreapp3.1\GradingSystem.runtimeconfig.json
+F:\Eric School\Activities\CC101\Programming\#5 GradingSystem\GradingSystem\bin\Debug\netcoreapp3.1\GradingSystem.runtimeconfig.dev.json
+F:\Eric School\Activities\CC101\Programming\#5 GradingSystem\GradingSystem\bin\Debug\netcoreapp3.1\GradingSystem.dll
+F:\Eric School\Activities\CC101\Programming\#5 GradingSystem\GradingSystem\bin\Debug\netcoreapp3.1\GradingSystem.pdb
+F:\Eric School\Activities\CC101\Programming\#5 GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.csproj.AssemblyReference.cache
+F:\Eric School\Activities\CC101\Programming\#5 GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eric School\Activities\CC101\Programming\#5 GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.AssemblyInfoInputs.cache
+F:\Eric School\Activities\CC101\Programming\#5 GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.AssemblyInfo.cs
+F:\Eric School\Activities\CC101\Programming\#5 GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.csproj.CoreCompileInputs.cache
+F:\Eric School\Activities\CC101\Programming\#5 GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.dll
+F:\Eric School\Activities\CC101\Programming\#5 GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.pdb
+F:\Eric School\Activities\CC101\Programming\#5 GradingSystem\GradingSystem\obj\Debug\netcoreapp3.1\GradingSystem.genruntimeconfig.cache

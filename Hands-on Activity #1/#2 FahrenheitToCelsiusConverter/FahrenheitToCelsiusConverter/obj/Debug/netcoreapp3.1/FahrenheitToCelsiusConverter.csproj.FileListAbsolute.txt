@@ -1,0 +1,28 @@
+F:\Eric School\Activities\CC101\FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eric School\Activities\CC101\FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.AssemblyInfoInputs.cache
+F:\Eric School\Activities\CC101\FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.AssemblyInfo.cs
+F:\Eric School\Activities\CC101\FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.csproj.CoreCompileInputs.cache
+F:\Eric School\Activities\CC101\FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.exe
+F:\Eric School\Activities\CC101\FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.deps.json
+F:\Eric School\Activities\CC101\FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.runtimeconfig.json
+F:\Eric School\Activities\CC101\FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.runtimeconfig.dev.json
+F:\Eric School\Activities\CC101\FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.dll
+F:\Eric School\Activities\CC101\FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.pdb
+F:\Eric School\Activities\CC101\FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.dll
+F:\Eric School\Activities\CC101\FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.pdb
+F:\Eric School\Activities\CC101\FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.genruntimeconfig.cache
+F:\Eric School\Activities\CC101\FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.csproj.AssemblyReference.cache
+F:\Eric School\Activities\CC101\Programming\#2 FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.exe
+F:\Eric School\Activities\CC101\Programming\#2 FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.deps.json
+F:\Eric School\Activities\CC101\Programming\#2 FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.runtimeconfig.json
+F:\Eric School\Activities\CC101\Programming\#2 FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.runtimeconfig.dev.json
+F:\Eric School\Activities\CC101\Programming\#2 FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.dll
+F:\Eric School\Activities\CC101\Programming\#2 FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.pdb
+F:\Eric School\Activities\CC101\Programming\#2 FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.csproj.AssemblyReference.cache
+F:\Eric School\Activities\CC101\Programming\#2 FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eric School\Activities\CC101\Programming\#2 FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.AssemblyInfoInputs.cache
+F:\Eric School\Activities\CC101\Programming\#2 FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.AssemblyInfo.cs
+F:\Eric School\Activities\CC101\Programming\#2 FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.csproj.CoreCompileInputs.cache
+F:\Eric School\Activities\CC101\Programming\#2 FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.dll
+F:\Eric School\Activities\CC101\Programming\#2 FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.pdb
+F:\Eric School\Activities\CC101\Programming\#2 FahrenheitToCelsiusConverter\FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\FahrenheitToCelsiusConverter.genruntimeconfig.cache

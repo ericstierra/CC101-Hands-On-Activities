@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7NEEwnbl2FjwYqi/OXlqzn5aSvDd46M57Mov7SK91K4B+W4Q8gtf/3Cg5Trr5jbqQurG3VEgpYfqe78/p/p6oQ==",
+  "success": true,
+  "projectFilePath": "F:\\Eric School\\Activities\\CC101\\Programming\\#5 GradingSystem\\GradingSystem\\GradingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sambag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zi/+kCJFMUR26rG5sJpMaBrzbjAcDH8J33ix+S44XEx6RYbeGETrOpG3aSWpUB5YRE4Mmn2tdgfd0HN6RMFIyQ==",
+  "success": true,
+  "projectFilePath": "F:\\Eric School\\Activities\\CC101\\Programming\\#4 FindingSumDifferenceProductQuotient\\FindingSumDifferenceProductQuotient\\FindingSumDifferenceProductQuotient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sambag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

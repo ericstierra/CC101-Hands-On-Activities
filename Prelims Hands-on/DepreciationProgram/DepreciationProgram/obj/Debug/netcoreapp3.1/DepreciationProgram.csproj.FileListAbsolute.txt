@@ -1,0 +1,14 @@
+F:\Eric School\Activities\CC101\Programming\DepreciationProgram\DepreciationProgram\bin\Debug\netcoreapp3.1\DepreciationProgram.exe
+F:\Eric School\Activities\CC101\Programming\DepreciationProgram\DepreciationProgram\bin\Debug\netcoreapp3.1\DepreciationProgram.deps.json
+F:\Eric School\Activities\CC101\Programming\DepreciationProgram\DepreciationProgram\bin\Debug\netcoreapp3.1\DepreciationProgram.runtimeconfig.json
+F:\Eric School\Activities\CC101\Programming\DepreciationProgram\DepreciationProgram\bin\Debug\netcoreapp3.1\DepreciationProgram.runtimeconfig.dev.json
+F:\Eric School\Activities\CC101\Programming\DepreciationProgram\DepreciationProgram\bin\Debug\netcoreapp3.1\DepreciationProgram.dll
+F:\Eric School\Activities\CC101\Programming\DepreciationProgram\DepreciationProgram\bin\Debug\netcoreapp3.1\DepreciationProgram.pdb
+F:\Eric School\Activities\CC101\Programming\DepreciationProgram\DepreciationProgram\obj\Debug\netcoreapp3.1\DepreciationProgram.csproj.AssemblyReference.cache
+F:\Eric School\Activities\CC101\Programming\DepreciationProgram\DepreciationProgram\obj\Debug\netcoreapp3.1\DepreciationProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eric School\Activities\CC101\Programming\DepreciationProgram\DepreciationProgram\obj\Debug\netcoreapp3.1\DepreciationProgram.AssemblyInfoInputs.cache
+F:\Eric School\Activities\CC101\Programming\DepreciationProgram\DepreciationProgram\obj\Debug\netcoreapp3.1\DepreciationProgram.AssemblyInfo.cs
+F:\Eric School\Activities\CC101\Programming\DepreciationProgram\DepreciationProgram\obj\Debug\netcoreapp3.1\DepreciationProgram.csproj.CoreCompileInputs.cache
+F:\Eric School\Activities\CC101\Programming\DepreciationProgram\DepreciationProgram\obj\Debug\netcoreapp3.1\DepreciationProgram.dll
+F:\Eric School\Activities\CC101\Programming\DepreciationProgram\DepreciationProgram\obj\Debug\netcoreapp3.1\DepreciationProgram.pdb
+F:\Eric School\Activities\CC101\Programming\DepreciationProgram\DepreciationProgram\obj\Debug\netcoreapp3.1\DepreciationProgram.genruntimeconfig.cache

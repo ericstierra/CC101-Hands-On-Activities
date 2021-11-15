@@ -1,0 +1,14 @@
+F:\Eric School\Activities\CC101\SammysSeashoreSuppliesRental\SammysSeashoreSuppliesRental\bin\Debug\netcoreapp3.1\SammysSeashoreSuppliesRental.exe
+F:\Eric School\Activities\CC101\SammysSeashoreSuppliesRental\SammysSeashoreSuppliesRental\bin\Debug\netcoreapp3.1\SammysSeashoreSuppliesRental.deps.json
+F:\Eric School\Activities\CC101\SammysSeashoreSuppliesRental\SammysSeashoreSuppliesRental\bin\Debug\netcoreapp3.1\SammysSeashoreSuppliesRental.runtimeconfig.json
+F:\Eric School\Activities\CC101\SammysSeashoreSuppliesRental\SammysSeashoreSuppliesRental\bin\Debug\netcoreapp3.1\SammysSeashoreSuppliesRental.runtimeconfig.dev.json
+F:\Eric School\Activities\CC101\SammysSeashoreSuppliesRental\SammysSeashoreSuppliesRental\bin\Debug\netcoreapp3.1\SammysSeashoreSuppliesRental.dll
+F:\Eric School\Activities\CC101\SammysSeashoreSuppliesRental\SammysSeashoreSuppliesRental\bin\Debug\netcoreapp3.1\SammysSeashoreSuppliesRental.pdb
+F:\Eric School\Activities\CC101\SammysSeashoreSuppliesRental\SammysSeashoreSuppliesRental\obj\Debug\netcoreapp3.1\SammysSeashoreSuppliesRental.csproj.AssemblyReference.cache
+F:\Eric School\Activities\CC101\SammysSeashoreSuppliesRental\SammysSeashoreSuppliesRental\obj\Debug\netcoreapp3.1\SammysSeashoreSuppliesRental.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eric School\Activities\CC101\SammysSeashoreSuppliesRental\SammysSeashoreSuppliesRental\obj\Debug\netcoreapp3.1\SammysSeashoreSuppliesRental.AssemblyInfoInputs.cache
+F:\Eric School\Activities\CC101\SammysSeashoreSuppliesRental\SammysSeashoreSuppliesRental\obj\Debug\netcoreapp3.1\SammysSeashoreSuppliesRental.AssemblyInfo.cs
+F:\Eric School\Activities\CC101\SammysSeashoreSuppliesRental\SammysSeashoreSuppliesRental\obj\Debug\netcoreapp3.1\SammysSeashoreSuppliesRental.csproj.CoreCompileInputs.cache
+F:\Eric School\Activities\CC101\SammysSeashoreSuppliesRental\SammysSeashoreSuppliesRental\obj\Debug\netcoreapp3.1\SammysSeashoreSuppliesRental.dll
+F:\Eric School\Activities\CC101\SammysSeashoreSuppliesRental\SammysSeashoreSuppliesRental\obj\Debug\netcoreapp3.1\SammysSeashoreSuppliesRental.pdb
+F:\Eric School\Activities\CC101\SammysSeashoreSuppliesRental\SammysSeashoreSuppliesRental\obj\Debug\netcoreapp3.1\SammysSeashoreSuppliesRental.genruntimeconfig.cache

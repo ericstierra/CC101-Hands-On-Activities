@@ -1,0 +1,14 @@
+F:\Eric School\Activities\CC101\AdultAndChildrensMeal\AdultAndChildrensMeal\bin\Debug\netcoreapp3.1\AdultAndChildrensMeal.exe
+F:\Eric School\Activities\CC101\AdultAndChildrensMeal\AdultAndChildrensMeal\bin\Debug\netcoreapp3.1\AdultAndChildrensMeal.deps.json
+F:\Eric School\Activities\CC101\AdultAndChildrensMeal\AdultAndChildrensMeal\bin\Debug\netcoreapp3.1\AdultAndChildrensMeal.runtimeconfig.json
+F:\Eric School\Activities\CC101\AdultAndChildrensMeal\AdultAndChildrensMeal\bin\Debug\netcoreapp3.1\AdultAndChildrensMeal.runtimeconfig.dev.json
+F:\Eric School\Activities\CC101\AdultAndChildrensMeal\AdultAndChildrensMeal\bin\Debug\netcoreapp3.1\AdultAndChildrensMeal.dll
+F:\Eric School\Activities\CC101\AdultAndChildrensMeal\AdultAndChildrensMeal\bin\Debug\netcoreapp3.1\AdultAndChildrensMeal.pdb
+F:\Eric School\Activities\CC101\AdultAndChildrensMeal\AdultAndChildrensMeal\obj\Debug\netcoreapp3.1\AdultAndChildrensMeal.csproj.AssemblyReference.cache
+F:\Eric School\Activities\CC101\AdultAndChildrensMeal\AdultAndChildrensMeal\obj\Debug\netcoreapp3.1\AdultAndChildrensMeal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eric School\Activities\CC101\AdultAndChildrensMeal\AdultAndChildrensMeal\obj\Debug\netcoreapp3.1\AdultAndChildrensMeal.AssemblyInfoInputs.cache
+F:\Eric School\Activities\CC101\AdultAndChildrensMeal\AdultAndChildrensMeal\obj\Debug\netcoreapp3.1\AdultAndChildrensMeal.AssemblyInfo.cs
+F:\Eric School\Activities\CC101\AdultAndChildrensMeal\AdultAndChildrensMeal\obj\Debug\netcoreapp3.1\AdultAndChildrensMeal.csproj.CoreCompileInputs.cache
+F:\Eric School\Activities\CC101\AdultAndChildrensMeal\AdultAndChildrensMeal\obj\Debug\netcoreapp3.1\AdultAndChildrensMeal.dll
+F:\Eric School\Activities\CC101\AdultAndChildrensMeal\AdultAndChildrensMeal\obj\Debug\netcoreapp3.1\AdultAndChildrensMeal.pdb
+F:\Eric School\Activities\CC101\AdultAndChildrensMeal\AdultAndChildrensMeal\obj\Debug\netcoreapp3.1\AdultAndChildrensMeal.genruntimeconfig.cache

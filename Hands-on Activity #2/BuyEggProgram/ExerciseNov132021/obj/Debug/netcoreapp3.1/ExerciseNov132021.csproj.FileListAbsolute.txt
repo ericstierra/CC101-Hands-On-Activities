@@ -1,0 +1,14 @@
+F:\Programming\ExerciseNov132021\ExerciseNov132021\bin\Debug\netcoreapp3.1\ExerciseNov132021.exe
+F:\Programming\ExerciseNov132021\ExerciseNov132021\bin\Debug\netcoreapp3.1\ExerciseNov132021.deps.json
+F:\Programming\ExerciseNov132021\ExerciseNov132021\bin\Debug\netcoreapp3.1\ExerciseNov132021.runtimeconfig.json
+F:\Programming\ExerciseNov132021\ExerciseNov132021\bin\Debug\netcoreapp3.1\ExerciseNov132021.runtimeconfig.dev.json
+F:\Programming\ExerciseNov132021\ExerciseNov132021\bin\Debug\netcoreapp3.1\ExerciseNov132021.dll
+F:\Programming\ExerciseNov132021\ExerciseNov132021\bin\Debug\netcoreapp3.1\ExerciseNov132021.pdb
+F:\Programming\ExerciseNov132021\ExerciseNov132021\obj\Debug\netcoreapp3.1\ExerciseNov132021.csproj.AssemblyReference.cache
+F:\Programming\ExerciseNov132021\ExerciseNov132021\obj\Debug\netcoreapp3.1\ExerciseNov132021.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\ExerciseNov132021\ExerciseNov132021\obj\Debug\netcoreapp3.1\ExerciseNov132021.AssemblyInfoInputs.cache
+F:\Programming\ExerciseNov132021\ExerciseNov132021\obj\Debug\netcoreapp3.1\ExerciseNov132021.AssemblyInfo.cs
+F:\Programming\ExerciseNov132021\ExerciseNov132021\obj\Debug\netcoreapp3.1\ExerciseNov132021.csproj.CoreCompileInputs.cache
+F:\Programming\ExerciseNov132021\ExerciseNov132021\obj\Debug\netcoreapp3.1\ExerciseNov132021.dll
+F:\Programming\ExerciseNov132021\ExerciseNov132021\obj\Debug\netcoreapp3.1\ExerciseNov132021.pdb
+F:\Programming\ExerciseNov132021\ExerciseNov132021\obj\Debug\netcoreapp3.1\ExerciseNov132021.genruntimeconfig.cache
